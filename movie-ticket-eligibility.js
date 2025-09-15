@@ -3,7 +3,7 @@
 
 let age = 20;
 
-let isStudent = true;
+let isStudent = true; //default true
 
 // TODO: Write an if/else statement using booleans
 // to decide which message to log.
